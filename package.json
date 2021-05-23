@@ -1,0 +1,21 @@
+{
+  "name": "first-npm",
+  "version": "1.0.0",
+  "description": "Learning node using npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagoe1712/first-npm.git"
+  },
+  "author": "Olayinka Sagoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagoe1712/first-npm/issues"
+  },
+  "homepage": "https://github.com/sagoe1712/first-npm#readme"
+}
